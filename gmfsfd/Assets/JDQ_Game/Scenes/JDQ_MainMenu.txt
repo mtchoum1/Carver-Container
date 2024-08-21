@@ -1,0 +1,9 @@
+Game Name: Don't touch the red
+Author: Jayven Quedit 2024
+Controls: Keyboard & Mouse
+Instructions: You move a blue square around using the arrow keys. You dodge anything red. 
+Some obstacles are moving, and you have to time your movement to avoid them.
+If you touch anything red, you get stunned and can't move for 1 second.
+Your goal is to get to the blue arrow in the top left of the screen before 30 seconds are up.
+You have a timer in the top right to help you keep track of your time remaining.
+

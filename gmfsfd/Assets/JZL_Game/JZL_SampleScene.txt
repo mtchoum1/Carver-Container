@@ -1,0 +1,4 @@
+Bomb Blowup
+Jasper Thorne-Lyman 2025
+WASD keys and mouse button
+Shoot the bombs. Credits: Thanks to Mixkit for the sound effects.

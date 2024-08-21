@@ -1,0 +1,4 @@
+My game is named Jumpy Hoop
+My name is Duncan McGough and I am a student of year 2024
+My control scheme is wasd or arrow keys
+Make sure to go down at least a small amount before returning to the surface to jump for the best consistency.

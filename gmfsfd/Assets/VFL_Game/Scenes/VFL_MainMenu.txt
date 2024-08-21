@@ -1,0 +1,4 @@
+Author: Vince Lopez
+Game Title: Robo Hell
+Controls: Keyboard & Mouse
+Instructions: Dodge the bosses attacks (the bullets and the red warning cirlce) and shoot the boss in order to defeat it and win the game.

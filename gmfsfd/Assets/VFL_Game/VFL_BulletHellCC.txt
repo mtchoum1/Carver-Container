@@ -1,0 +1,5 @@
+Game name: Button Hell 
+Author: Vince Lopez 2024
+Controls: Keyboard & Mouse
+Instructions: The goal of the game is to survive and defeat the boss. You will have to shoot the boss and dodge its attacks in order to defeat it. 
+Once the boss reaches 0 health, you win. But if your health reaches 0 health, you lose.

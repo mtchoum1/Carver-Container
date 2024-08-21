@@ -1,0 +1,5 @@
+Max Sovich 
+Crossing Bird
+
+How To Play:
+The player will move left, right, up, and down to avoid the cars and get to the right side of the screen.
